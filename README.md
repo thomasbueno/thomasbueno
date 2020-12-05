@@ -1,7 +1,7 @@
-# Welcome, I'm Thomás <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Welcome, I'm Thomás <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
 #### Full Stack Developer passionate about the tech world 👨🏻‍💻🌎
-
+##### Brazilian, São Paulo 🏠
 ## ⚡ Tech Stack
 * 💎 ruby on rails
 * 🛢️ postgresql

@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome, I'm Thomás <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<!--
-**thomasbuenoU/thomasbuenoU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Full Stack Developer passionate about the tech world 👨🏻‍💻🌎
 
-Here are some ideas to get you started:
+## ⚡ Tech Stack
+* 💎 ruby on rails
+* 🛢️ postgresql
+* 🧰 react
+* 🌐 html | css
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in touch
+<p id="socialIcons">
+    <a href="https://www.linkedin.com/in/thomas-escolastico/" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+<a href="mailto:thomasbuenou@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:thomasbuenou@gmail.com" /></a>
+</p>
+
+[linkedin]:https://www.linkedin.com/in/thomas-escolastico/
+[mail]:(mailto:thomasbuenou@gmail.com)

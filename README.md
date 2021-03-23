@@ -5,7 +5,7 @@
 ## ⚡ Tech Stack
 * 💎 ruby on rails
 * 🛢️ postgresql
-* 🧰 react
+* 🚀 react
 * 🌐 html | css
 
 ## 📫 Get in touch

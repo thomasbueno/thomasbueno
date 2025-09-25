@@ -6,7 +6,6 @@
 * 💎 ruby on rails
 * 🛢️ postgresql
 * 🚀 react
-* 🌐 html | css
 
 ## 📫 Get in touch
 <p id="socialIcons">
